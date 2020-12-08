@@ -9,3 +9,6 @@ Other file which is test.ipynb is used for testing on random images to test accu
 On Jetson
 Same files can be used on Jetson device
 Training using Jetson will be slow
+
+Taking snapshot from video has been added to extract frames from video files.
+In case you want to generate your own data. Use this files to generate image dataset
