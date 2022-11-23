@@ -1,4 +1,4 @@
-# Intruder-Detection-using-Jetson-Nano
+# Person-Detection-using-Jetson-Nano
 ## Author: M.Zeeshan Karamat
 On laptop:
 Intruder detection Mobilenetv2 notebook is used for training. I have used pretrained mobilenetv2 model. 
